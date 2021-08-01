@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="Listener"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="/Users/kavin/Documents/seleniumautomation/GreenKart">
+        <classes>
+            <class name="testcases.MarketTest"/>
+        </classes>
+    </test>
+</suite>

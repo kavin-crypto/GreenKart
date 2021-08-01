@@ -1,0 +1,121 @@
+13:31:31 [main] INFO  testcases.MarketTest - Selecting productNeeded: 
+13:31:31 [main] DEBUG testcases.MarketTest - Incrementing the products
+13:31:31 [main] DEBUG testcases.MarketTest - Adding to cart
+13:31:31 [main] DEBUG testcases.MarketTest - Incrementing the products
+13:31:31 [main] DEBUG testcases.MarketTest - Adding to cart
+13:31:31 [main] DEBUG testcases.MarketTest - Incrementing the products
+13:31:32 [main] DEBUG testcases.MarketTest - Adding to cart
+13:31:32 [main] DEBUG testcases.MarketTest - Comparing number of selected product is displayed
+13:31:32 [main] INFO  testcases.MarketTest - Calculating the price of product
+13:31:32 [main] INFO  testcases.MarketTest - Verifying th table
+13:31:32 [main] DEBUG testcases.MarketTest - Comparing and calculating the total amount
+13:31:32 [main] INFO  testcases.MarketTest - Adding promo code: rahulshettyacademy
+13:31:38 [main] INFO  testcases.MarketTest - Comparing before and after discount price
+13:31:38 [main] DEBUG testcases.MarketTest - Selecting the delivery location
+13:31:38 [main] INFO  testcases.MarketTest - Verifying the conformation of order
+14:25:33 [main] INFO  testcases.MarketTest - Selecting productNeeded: [Ljava.lang.String;@6f89f665
+14:25:33 [main] DEBUG testcases.MarketTest - Incrementing the products
+14:25:33 [main] DEBUG testcases.MarketTest - Adding to cart
+14:25:34 [main] DEBUG testcases.MarketTest - Incrementing the products
+14:25:34 [main] DEBUG testcases.MarketTest - Adding to cart
+14:25:34 [main] DEBUG testcases.MarketTest - Incrementing the products
+14:25:34 [main] DEBUG testcases.MarketTest - Adding to cart
+14:25:34 [main] DEBUG testcases.MarketTest - Comparing number of selected product is displayed
+14:25:34 [main] INFO  testcases.MarketTest - Calculating the price of product
+14:25:34 [main] INFO  testcases.MarketTest - Verifying th table
+14:25:35 [main] DEBUG testcases.MarketTest - Comparing and calculating the total amount
+14:25:35 [main] INFO  testcases.MarketTest - Adding promo code: rahulshettyacademy
+14:25:40 [main] INFO  testcases.MarketTest - Comparing before and after discount price
+14:25:40 [main] DEBUG testcases.MarketTest - Selecting the delivery location
+14:25:40 [main] INFO  testcases.MarketTest - Verifying the conformation of order
+14:29:41 [main] INFO  testcases.MarketTest - Selecting productNeeded[Raspberry, Onion, Walnuts]
+14:29:42 [main] DEBUG testcases.MarketTest - Incrementing the products
+14:29:42 [main] DEBUG testcases.MarketTest - Adding to cart
+14:29:42 [main] DEBUG testcases.MarketTest - Incrementing the products
+14:29:42 [main] DEBUG testcases.MarketTest - Adding to cart
+14:29:42 [main] DEBUG testcases.MarketTest - Incrementing the products
+14:29:42 [main] DEBUG testcases.MarketTest - Adding to cart
+19:13:47 [main] INFO  testcases.MarketTest - Selecting productNeeded[Raspberry, Onion, Walnuts]
+19:13:47 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:13:47 [main] DEBUG testcases.MarketTest - Adding to cart
+19:13:47 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:13:47 [main] DEBUG testcases.MarketTest - Adding to cart
+19:13:47 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:13:47 [main] DEBUG testcases.MarketTest - Adding to cart
+19:13:48 [main] DEBUG testcases.MarketTest - Comparing number of selected product is displayed
+19:13:48 [main] INFO  testcases.MarketTest - Calculating the price of product
+19:14:37 [main] INFO  testcases.MarketTest - Selecting productNeeded[Raspberry, Onion, Walnuts]
+19:14:38 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:14:38 [main] DEBUG testcases.MarketTest - Adding to cart
+19:14:38 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:14:38 [main] DEBUG testcases.MarketTest - Adding to cart
+19:14:38 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:14:38 [main] DEBUG testcases.MarketTest - Adding to cart
+19:14:38 [main] DEBUG testcases.MarketTest - Comparing number of selected product is displayed
+19:14:38 [main] INFO  testcases.MarketTest - Calculating the price of product
+19:14:38 [main] INFO  testcases.MarketTest - Verifying th table
+19:14:39 [main] DEBUG testcases.MarketTest - Comparing and calculating the total amount
+19:14:39 [main] INFO  testcases.MarketTest - Adding promo code: rahulshettyacademy
+19:14:44 [main] INFO  testcases.MarketTest - Comparing before and after discount price
+19:14:44 [main] DEBUG testcases.MarketTest - Selecting the delivery location
+19:14:44 [main] INFO  testcases.MarketTest - Verifying the conformation of order
+19:24:37 [main] INFO  testcases.MarketTest - Selecting productNeeded[Raspberry, Onion, Walnuts]
+19:24:37 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:24:37 [main] DEBUG testcases.MarketTest - Adding to cart
+19:24:37 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:24:37 [main] DEBUG testcases.MarketTest - Adding to cart
+19:24:37 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:24:37 [main] DEBUG testcases.MarketTest - Adding to cart
+19:24:37 [main] DEBUG testcases.MarketTest - Comparing number of selected product is displayed
+19:24:38 [main] INFO  testcases.MarketTest - Calculating the price of product
+19:24:38 [main] INFO  testcases.MarketTest - Verifying th table
+19:24:38 [main] DEBUG testcases.MarketTest - Comparing and calculating the total amount
+19:24:38 [main] INFO  testcases.MarketTest - Adding promo code: rahulshettyacademy
+19:24:43 [main] INFO  testcases.MarketTest - Comparing before and after discount price
+19:24:43 [main] DEBUG testcases.MarketTest - Selecting the delivery location
+19:24:44 [main] INFO  testcases.MarketTest - Verifying the conformation of order
+19:25:34 [main] INFO  testcases.MarketTest - Selecting productNeeded[Raspberry, Onion, Walnuts]
+19:25:34 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:25:34 [main] DEBUG testcases.MarketTest - Adding to cart
+19:25:34 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:25:34 [main] DEBUG testcases.MarketTest - Adding to cart
+19:25:34 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:25:34 [main] DEBUG testcases.MarketTest - Adding to cart
+19:25:35 [main] DEBUG testcases.MarketTest - Comparing number of selected product is displayed
+19:25:35 [main] INFO  testcases.MarketTest - Calculating the price of product
+19:25:35 [main] INFO  testcases.MarketTest - Verifying th table
+19:25:35 [main] DEBUG testcases.MarketTest - Comparing and calculating the total amount
+19:25:35 [main] INFO  testcases.MarketTest - Adding promo code: rahulshettyacademy
+19:25:41 [main] INFO  testcases.MarketTest - Comparing before and after discount price
+19:25:41 [main] DEBUG testcases.MarketTest - Selecting the delivery location
+19:25:41 [main] INFO  testcases.MarketTest - Verifying the conformation of order
+19:25:55 [main] INFO  testcases.MarketTest - Selecting productNeeded[Raspberry, Onion, Walnuts]
+19:25:56 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:25:56 [main] DEBUG testcases.MarketTest - Adding to cart
+19:25:56 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:25:56 [main] DEBUG testcases.MarketTest - Adding to cart
+19:25:56 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:25:56 [main] DEBUG testcases.MarketTest - Adding to cart
+19:25:56 [main] DEBUG testcases.MarketTest - Comparing number of selected product is displayed
+19:25:56 [main] INFO  testcases.MarketTest - Calculating the price of product
+19:25:56 [main] INFO  testcases.MarketTest - Verifying th table
+19:25:57 [main] DEBUG testcases.MarketTest - Comparing and calculating the total amount
+19:25:57 [main] INFO  testcases.MarketTest - Adding promo code: rahulshettyacademy
+19:26:02 [main] INFO  testcases.MarketTest - Comparing before and after discount price
+19:26:02 [main] DEBUG testcases.MarketTest - Selecting the delivery location
+19:26:02 [main] INFO  testcases.MarketTest - Verifying the conformation of order
+19:54:25 [main] INFO  testcases.MarketTest - Selecting productNeeded[Raspberry, Onion, Walnuts]
+19:54:25 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:54:26 [main] DEBUG testcases.MarketTest - Adding to cart
+19:54:26 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:54:26 [main] DEBUG testcases.MarketTest - Adding to cart
+19:54:26 [main] DEBUG testcases.MarketTest - Incrementing the products
+19:54:26 [main] DEBUG testcases.MarketTest - Adding to cart
+19:54:26 [main] DEBUG testcases.MarketTest - Comparing number of selected product is displayed
+19:54:26 [main] INFO  testcases.MarketTest - Calculating the price of product
+19:54:26 [main] INFO  testcases.MarketTest - Verifying th table
+19:54:27 [main] DEBUG testcases.MarketTest - Comparing and calculating the total amount
+19:54:27 [main] INFO  testcases.MarketTest - Adding promo code: rahulshettyacademy
+19:54:32 [main] INFO  testcases.MarketTest - Comparing before and after discount price
+19:54:32 [main] DEBUG testcases.MarketTest - Selecting the delivery location
+19:54:32 [main] INFO  testcases.MarketTest - Verifying the conformation of order
